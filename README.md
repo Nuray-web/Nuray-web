@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥  Data Analyst Intern at Groupe SEB
-- 💼 Senior student 𝚘𝚏 [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3ALogo_of_Suleymen_Demirel_University%2C_Kazakhstan.png&psig=AOvVaw3qrM5NbBQ9C5t4DabHs-za&ust=1674203359709000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDYgtmb0_wCFQAAAAAdAAAAABAD" height="30em" align="center" alt="SDU" title="SDU"/>](https://sdu.edu.kz/)
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Mathmatical and Computer Modeling on Faculty of Engineering & Natural Sciences, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸4 (Bachelor Degree)
+- 💼 Senior student 𝚘𝚏 Suleyman Demirel University
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Mathematical and Computer Modeling on Faculty of Engineering & Natural Sciences, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸4 (Bachelor Degree)
