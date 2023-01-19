@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+## :book: 💕 About Me
 - 🖥  Data Analyst Intern at Groupe SEB
 - 💼 Senior student 𝚘𝚏 Suleyman Demirel University
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Mathematical and Computer Modeling on Faculty of Engineering & Natural Sciences, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸4 (Bachelor Degree)
+
+## :book: 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFE4E1)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FFE4E1)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=FFE4E1)
+![](https://img.shields.io/badge/Editor-Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=FFE4E1)
