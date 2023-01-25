@@ -1,6 +1,6 @@
 # :book: 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝚒𝚝'𝚜 𝙽𝚞𝚛𝚊𝚢 ヾ(•ω•`)o
 
-![Welcome to my github (1)](https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png | width=200)
+![Welcome to my github (1)](https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png)
 
 <!-- Неиспользованные баджи
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9E1E24FF&lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎+𝚝𝚘+𝚖𝚢+𝚙age!)](https://git.io/typing-svg)
