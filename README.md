@@ -1,9 +1,10 @@
 # :book: 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝚒𝚝'𝚜 𝙽𝚞𝚛𝚊𝚢 ヾ(•ω•`)o
 
-![Welcome to my github (1)](https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png)
+![Welcome to my github (1)](https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png | width=200)
 
-<!--
+<!-- Неиспользованные баджи
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9E1E24FF&lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎+𝚝𝚘+𝚖𝚢+𝚙age!)](https://git.io/typing-svg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nuray-web&right_color=pink)
 -->
 
 ## 💕 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
@@ -21,17 +22,17 @@
 ![Jupyter](https://img.shields.io/badge/Tools-Jupyter%20Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=FFE4E1)
 ![VS Code](https://img.shields.io/badge/Tools-VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=FFE4E1)
 ![Selenium](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=FFE4E1)
+![Collab](https://img.shields.io/badge/Tools-Google%20Colab-informational?style=flat&logo=google-colab&logoColor=white&color=FFE4E1)
 ![Chrome](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=google-chrome&logoColor=white&color=FFE4E1)
 ![Discord](https://img.shields.io/badge/Media-Discord-informational?style=flat&logo=discord&logoColor=white&color=FFE4E1)
 
+## 🚀 𝙿𝚛𝚘𝚐𝚛𝚎𝚜𝚜
 ![Nuray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuray-web&show_icons=true&theme=synthwave)
 
 
-## ✉ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
+##  [![LinkedIn][2.2]][2] 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎 
 
 <!-- Actual text -->
-
-- 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚖𝚎 𝚘𝚗 [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -40,3 +41,6 @@
 
 <!-- [1]: https://t.me/mommy_issues_girl  -->
 [2]: https://www.linkedin.com/in/nuray-kairatkyzy-774655213/
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&qColor=%23FF00FF&aColor=%23FF1493)
