@@ -1,7 +1,9 @@
 # :book: 𝙷𝚎𝚕𝚕𝚘 𝚝𝚑𝚎𝚛𝚎, 𝚒𝚝'𝚜 𝙽𝚞𝚛𝚊𝚢 ヾ(•ω•`)o
 
-![Welcome to my github (1)](https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png)
+<!--![Welcome to my github (1)](https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png)-->
 
+
+![gif](https://pa1.narvii.com/6247/8e6f3e2465eb8c9fabb08ee280d34453fb537ba2_hq.gif)
 <!--![banner](https://user-images.githubusercontent.com/72253666/214611104-0307a0a5-6355-44fb-b8c6-8189de5a96b4.png)-->
 
 <!--<img src="https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png" width="1500" height="400" />-->
@@ -54,7 +56,19 @@
 ![Nuray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuray-web&show_icons=true&theme=synthwave)
 
 
-##  [![LinkedIn][2.2]][2] 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎 
+##  📫 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎 
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nuray-kairatkyzy-774655213/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/hiskaya_nuna/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Insta Badge"/>
+  </a>
+  <a href="https://t.me/mommy_issues_girl">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Tel Badge"/>
+  </a>
+</div>
 
 <!-- Actual text -->
 
