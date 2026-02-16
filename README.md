@@ -3,7 +3,7 @@
 <!--![Welcome to my github (1)](https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png)-->
 
 
-![gif](https://pa1.narvii.com/6247/8e6f3e2465eb8c9fabb08ee280d34453fb537ba2_hq.gif)
+![gif](https://pyraxadon.wordpress.com/wp-content/uploads/2016/12/c7feeaa501a41d284149cdd3b15e024fe21148f8_hq.gif?w=644&h=371)
 <!--![banner](https://user-images.githubusercontent.com/72253666/214611104-0307a0a5-6355-44fb-b8c6-8189de5a96b4.png)-->
 
 <!--<img src="https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png" width="1500" height="400" />-->
@@ -51,9 +51,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-## 🚀 𝙿𝚛𝚘𝚐𝚛𝚎𝚜𝚜
-![Nuray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuray-web&show_icons=true&theme=synthwave)
 
 
 ##  📫 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎 
